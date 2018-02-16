@@ -1,8 +1,8 @@
 # pybox
 python try
 
-#conda python
+# conda python
 had installed torch and torchvison,import it in conda path
 
-#pip python
+# pip python
 had installed gpu tesorflow
