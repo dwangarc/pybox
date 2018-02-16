@@ -5,4 +5,4 @@ python try
 had installed torch and torchvison,import it in conda path
 
 # pip python
-had installed gpu tesorflow
+had installed gpu tensorflow
